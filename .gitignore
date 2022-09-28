@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+.artifacts/
+TestResults/
+.DS_Store
+
+launchSettings.json
+
+*.DotSettings.user
+.idea
+
+config.local.json
+config.Development.json
+
+coverage.cobertura.xml
